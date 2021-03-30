@@ -6,8 +6,8 @@ from pathlib import Path
 
 ##### path #####
 
-L = str(__file__)
-print(L[0:-13])
+L = str(__file__) # gets the full path & the name of the current file (.../mastermind.py)
+print(L[0:-13]) # L[0:-13] ONLY gets the full path of the current file (.../)
 os.chdir(L[0:-13])
 
 ##### game window #####
