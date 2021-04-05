@@ -7,4 +7,4 @@ Aidez-le à trouver le code secret pour déjouer les plans du diabolique profess
 ### Installation
 
 - Les modules Python : random, pygame, moviepy.editor et pathlib sont requis pour faire fonctionner le jeu.
-- Une simple commande pip install nomdumodule suffira à les installer
+- Une simple commande 'pip install nomdumodule' suffira pour les installer
