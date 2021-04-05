@@ -2,3 +2,6 @@
 
 Comme son nom l'indique ce jeu triple A vous fera redécouvrir l'une des qualités phares votre agent préféré : la réflexion !
 Aidez-le à trouver le code secret pour déjouer les plans du diabolique professeur Von Zimmel !
+
+Les modules Python : random, pygame, moviepy.editor et pathlib sont requis pour faire fonctionner le jeu
+Une simple commande pip install nomdumodule suffira à les installer
