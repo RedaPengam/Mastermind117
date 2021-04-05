@@ -10,5 +10,6 @@ Aidez-le à trouver le code secret pour déjouer les plans du diabolique profess
 
 ### Installation
 
-- Les modules Python : random, pygame, moviepy.editor et pathlib sont requis pour faire fonctionner le jeu.
-- Une simple commande 'pip install nomdumodule' suffira pour les installer
+- Télécharger l'ensemble du dépôt dans un dossier de votre choix sur votre PC 
+- Installer les modules Python : random, pygame, moviepy.editor et pathlib via la commande pip
+- Lancer mastermind.py dans un IDE Python
