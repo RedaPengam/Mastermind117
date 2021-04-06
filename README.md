@@ -11,5 +11,5 @@ Aidez-le à trouver le code secret pour déjouer les plans du diabolique profess
 ### Installation
 
 - Télécharger l'ensemble du dépôt dans un dossier de votre choix sur votre PC 
-- Installer les modules Python : random, pygame, moviepy.editor et pathlib via la commande `pip install nomDuModule`
+- Installer les modules Python : random, pygame, moviepy.editor et pathlib via la commande :  `pip install nomDuModule`
 - Compiler mastermind.py dans un IDE Python
