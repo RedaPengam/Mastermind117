@@ -1,6 +1,6 @@
 ### Présentation
 
-OSS 117 est de retour pour une nouvelle mission dans *Mastermind117*
+OSS 117 est de retour pour une toute nouvelle mission dans *Mastermind117*
 
 ![](https://github.com/RedaPengam/Mastermind117/blob/main/data/hmmm.png)
 
