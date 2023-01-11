@@ -14,5 +14,5 @@ Aidez-le à trouver le code secret pour parvenir à déjouer les plans du diabol
 - Télécharger l'ensemble du dépôt dans le dossier de votre choix
 - Installer [Python 3.7](https://www.python.org/downloads/release/python-379/)
 - Installer les modules Python : `random`, `pygame`, `moviepy` et `pathlib` via la commande `pip install nomDuModule`
-- Compiler mastermind.py dans un IDE Python
+- Compiler **mastermind.py** dans un IDE Python
 - Amusez-vous !
