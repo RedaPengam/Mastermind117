@@ -10,8 +10,8 @@ Comme son nom l'indique, ce jeu triple A vous fera redécouvrir l'une des qualit
 
 ## Installation
 
-- Télécharger l'ensemble du dépôt dans le dossier de votre choix
-- Installer [Python 3.7](https://www.python.org/downloads/release/python-379/)
-- Installer les modules Python : `random`, `pygame`, `moviepy` et `pathlib` via la commande `pip install nomDuModule`
-- Compiler **mastermind.py** dans un IDE Python
+- Téléchargez l'ensemble du dépôt dans le dossier de votre choix
+- Installez [Python 3.7](https://www.python.org/downloads/release/python-379/)
+- Installez les modules Python : `random`, `pygame`, `moviepy` et `pathlib` via la commande `pip install nomDuModule`
+- Compilez **mastermind.py** dans un IDE Python
 - Amusez-vous !
