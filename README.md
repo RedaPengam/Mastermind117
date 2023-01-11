@@ -6,8 +6,8 @@ OSS 117 est de retour pour une toute nouvelle mission dans *Mastermind117*.
 
 ![](https://github.com/RedaPengam/Mastermind117/blob/main/data/hmmm.png)
 
-Comme son nom l'indique, ce jeu triple A vous fera redécouvrir l'une des qualités phares votre agent préféré : <br/>
-La réflexion... <br/>
+Comme son nom l'indique, ce jeu triple A vous fera redécouvrir l'une des qualités phares  <br/> 
+de votre agent préféré : la réflexion... <br/>
 Aidez-le à trouver le code secret pour parvenir à déjouer les plans du diabolique professeur Von Zimmel !
 
 ## Installation
